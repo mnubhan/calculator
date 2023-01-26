@@ -1,2 +1,2 @@
 # calculator
-Calculator web app by using express.js
+Calculator web app with a server using node and express
