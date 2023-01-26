@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator web app use express and node",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnubhan/calculator.git"
+  },
+  "author": "mnubhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnubhan/calculator/issues"
+  },
+  "homepage": "https://github.com/mnubhan/calculator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
